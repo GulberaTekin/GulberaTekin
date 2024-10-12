@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GulberaTekin
 - 👀 I’m interested in watching videos on YouTube.
-- 🌱 I’m currently learning computer science at Bilkent University as a freshman.
+- 🌱 I’m currently learning computer science at Bilkent University as a senior student.
 
 
 <!---
